@@ -12,8 +12,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "HH",
-    "path": "folders/Room things/room/HH.yy",
+    "name": "Room",
+    "path": "folders/Room things/room/HH/Room.yy",
   },
   "spriteId": {
     "name": "spr_wall_tiles_hh",

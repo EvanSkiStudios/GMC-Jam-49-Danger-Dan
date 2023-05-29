@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_crate_on_line_DD",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_crate_drop_point_DD",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_crate_on_line_DD",
-    "path": "sprites/spr_crate_on_line_DD/spr_crate_on_line_DD.yy",
+    "name": "spr_convay_drop_point_DD",
+    "path": "sprites/spr_convay_drop_point_DD/spr_convay_drop_point_DD.yy",
   },
   "spriteMaskId": null,
   "visible": true,

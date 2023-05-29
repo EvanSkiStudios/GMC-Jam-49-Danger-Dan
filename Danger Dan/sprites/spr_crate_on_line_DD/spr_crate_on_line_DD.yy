@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Convayer",
-    "path": "folders/Room things/room/DD/Convayer.yy",
+    "name": "Sprites",
+    "path": "folders/Room things/room/DD/Convayer/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

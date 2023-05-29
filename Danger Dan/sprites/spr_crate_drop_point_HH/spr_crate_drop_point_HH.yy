@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_crate_DD",
-  "bbox_bottom": 7,
+  "name": "spr_crate_drop_point_HH",
+  "bbox_bottom": 8,
   "bbox_left": 0,
-  "bbox_right": 8,
+  "bbox_right": 18,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a09a5b8e-52fd-44cd-84f9-4b89cb806cf6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e3b4336d-5a77-4ac6-9276-478848b822a8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 8,
+  "height": 9,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1cda81e4-3f24-46d0-a41d-68ba62d59886","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"031baf4b-0924-4d44-b94a-9e10cb623026","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Room things/room/DD/Convayer/Sprites.yy",
+    "name": "sprites",
+    "path": "folders/Room things/room/HH/convayer/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_crate_DD",
+    "name": "spr_crate_drop_point_HH",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a09a5b8e-52fd-44cd-84f9-4b89cb806cf6","path":"sprites/spr_crate_DD/spr_crate_DD.yy",},},},"Disabled":false,"id":"322fdda8-8d93-45ef-bbf2-2a26fbd27f67","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e3b4336d-5a77-4ac6-9276-478848b822a8","path":"sprites/spr_crate_drop_point_HH/spr_crate_drop_point_HH.yy",},},},"Disabled":false,"id":"50b1b837-6cf7-468a-bd13-08c29faaee51","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 9,
+  "width": 19,
 }

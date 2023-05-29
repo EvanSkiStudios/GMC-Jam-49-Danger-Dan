@@ -48,8 +48,8 @@
   },
   "origin": 9,
   "parent": {
-    "name": "Convayer",
-    "path": "folders/Room things/room/DD/Convayer.yy",
+    "name": "Sprites",
+    "path": "folders/Room things/room/DD/Convayer/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -83,7 +83,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 3,
-    "yorigin": 0,
+    "yorigin": 1,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

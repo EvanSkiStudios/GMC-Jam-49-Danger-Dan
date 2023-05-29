@@ -1,3 +1,7 @@
+if !(audio_is_playing(snd_sfx_portal)){
+	audio_play_sound(snd_sfx_portal,0,false);
+}
+
 if (Travel_to_portal == obj_portal_2){
 	dan_sprite = spr_dan_teleport_up;
 	dan_new_y = 44;

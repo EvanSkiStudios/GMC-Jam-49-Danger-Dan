@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_crate_on_line_DD",
+  "name": "obj_crate_on_line_HH",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Convayer",
-    "path": "folders/Room things/room/DD/Convayer.yy",
+    "name": "convayer",
+    "path": "folders/Room things/room/HH/convayer.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_crate_on_line_DD",
-    "path": "sprites/spr_crate_on_line_DD/spr_crate_on_line_DD.yy",
+    "name": "spr_claw_empty_HH",
+    "path": "sprites/spr_claw_empty_HH/spr_claw_empty_HH.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,1 +1,0 @@
-instance_create_depth(93,27,depth,obj_crate_HH);

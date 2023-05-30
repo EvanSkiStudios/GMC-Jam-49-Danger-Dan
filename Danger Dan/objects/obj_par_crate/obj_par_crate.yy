@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_crate_HH",
+  "name": "obj_par_crate",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "convayer",
-    "path": "folders/Room things/room/HH/convayer.yy",
+    "name": "room",
+    "path": "folders/Room things/room.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_crate",
-    "path": "objects/obj_par_crate/obj_par_crate.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_crate_HH",
-    "path": "sprites/spr_crate_HH/spr_crate_HH.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

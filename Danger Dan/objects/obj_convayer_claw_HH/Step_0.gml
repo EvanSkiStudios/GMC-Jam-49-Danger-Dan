@@ -39,7 +39,7 @@ switch(state){
 			
 			//CRATE
 			if instance_exists(obj_crate_drop_point_HH){
-				if (place_meeting(x,y,obj_crate_HH)){
+				if (place_meeting(x,y,obj_crate_HH) || place_meeting(x,y+4,obj_crate_HH)) {
 					state = HH_convayer_states.picked_up_crate;
 					break;
 				}

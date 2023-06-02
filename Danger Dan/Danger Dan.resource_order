@@ -71,6 +71,7 @@
     {"name":"obj_convay_line_HH","order":4,"path":"objects/obj_convay_line_HH/obj_convay_line_HH.yy",},
     {"name":"obj_par_crate","order":1,"path":"objects/obj_par_crate/obj_par_crate.yy",},
     {"name":"fhAudioMusicGetReference","order":2,"path":"scripts/fhAudioMusicGetReference/fhAudioMusicGetReference.yy",},
+    {"name":"snd_sfx_laser_death","order":5,"path":"sounds/snd_sfx_laser_death/snd_sfx_laser_death.yy",},
     {"name":"snd_sfx_laser_loop","order":3,"path":"sounds/snd_sfx_laser_loop/snd_sfx_laser_loop.yy",},
     {"name":"fhAudioFHFXSetVolumeVariance","order":5,"path":"scripts/fhAudioFHFXSetVolumeVariance/fhAudioFHFXSetVolumeVariance.yy",},
     {"name":"spr_convay_line_HH","order":2,"path":"sprites/spr_convay_line_HH/spr_convay_line_HH.yy",},

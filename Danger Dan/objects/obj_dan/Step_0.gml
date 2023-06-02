@@ -111,6 +111,7 @@ case DAN_STATE.alive:{
 	
 	case DAN_STATE.death_laser:{
 		if (sprite_index != spr_dan_laserd){
+			fha_sound_play(SND_SFX_LASER_DEATH);
 			image_index = 0;
 			sprite_index = spr_dan_laserd;
 			image_speed = 1;

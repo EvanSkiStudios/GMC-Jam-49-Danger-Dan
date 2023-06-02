@@ -10,7 +10,7 @@ if (flag_drop){
 				if (place_meeting(x,y,obj_dan)){
 					global.player_control = false;
 					if (obj_dan.state != DAN_STATE.death_squash){
-						audio_play_sound(snd_sfx_squish,0,false);
+						fha_sound_play(SND_SFX_SQUISH,false);
 						obj_dan.state = DAN_STATE.death_squash;
 					}
 				}

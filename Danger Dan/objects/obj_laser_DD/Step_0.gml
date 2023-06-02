@@ -32,7 +32,7 @@ switch(laser_state){
 		if (instance_exists(obj_dan)){
 			if (point_in_rectangle(obj_dan.x,obj_dan.y, target_x-1,target_y-1,x+1,y+1)){
 				with(obj_dan){
-					state = DAN_STATE.death_laser; 		
+					state = DAN_STATE.death_laser;
 				}
 			}
 		}

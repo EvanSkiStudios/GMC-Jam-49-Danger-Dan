@@ -1,5 +1,5 @@
 if !(audio_is_playing(snd_sfx_portal)){
-	audio_play_sound(snd_sfx_portal,0,false);
+	fha_sound_play(SND_SFX_PORTAL,false);
 }
 
 if (Travel_to_portal == obj_portal_2){

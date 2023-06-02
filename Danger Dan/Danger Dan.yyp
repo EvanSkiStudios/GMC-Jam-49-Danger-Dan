@@ -99,6 +99,7 @@
     {"id":{"name":"obj_par_crate","path":"objects/obj_par_crate/obj_par_crate.yy",},},
     {"id":{"name":"obj_dan","path":"objects/obj_dan/obj_dan.yy",},},
     {"id":{"name":"fhAudioMusicGetReference","path":"scripts/fhAudioMusicGetReference/fhAudioMusicGetReference.yy",},},
+    {"id":{"name":"snd_sfx_laser_death","path":"sounds/snd_sfx_laser_death/snd_sfx_laser_death.yy",},},
     {"id":{"name":"snd_sfx_laser_loop","path":"sounds/snd_sfx_laser_loop/snd_sfx_laser_loop.yy",},},
     {"id":{"name":"fhAudioFHFXSetVolumeVariance","path":"scripts/fhAudioFHFXSetVolumeVariance/fhAudioFHFXSetVolumeVariance.yy",},},
     {"id":{"name":"spr_convay_line_HH","path":"sprites/spr_convay_line_HH/spr_convay_line_HH.yy",},},

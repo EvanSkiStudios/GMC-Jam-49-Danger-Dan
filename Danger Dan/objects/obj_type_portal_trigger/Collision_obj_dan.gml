@@ -6,10 +6,12 @@ if (Travel_to_portal == obj_portal_2){
 	dan_sprite = spr_dan_teleport_up;
 	dan_new_y = 44;
 	camera_new_y = 0;
+	global.DAN_IS_IN_ROOM = ROOMS.HH;
 }else{
 	dan_sprite = spr_dan_teleport_down;
 	dan_new_y = 87;
 	camera_new_y = 72;
+	global.DAN_IS_IN_ROOM = ROOMS.DD;
 }
 
 global.player_control = false;

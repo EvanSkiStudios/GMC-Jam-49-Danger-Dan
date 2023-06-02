@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Portals",
-    "path": "folders/Portals.yy",
+    "path": "folders/Room things/Portals.yy",
   },
   "parentObjectId": null,
   "persistent": false,

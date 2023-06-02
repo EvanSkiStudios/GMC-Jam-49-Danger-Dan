@@ -29,7 +29,7 @@
   "origin": 6,
   "parent": {
     "name": "sprites",
-    "path": "folders/Portals/sprites.yy",
+    "path": "folders/Room things/Portals/sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

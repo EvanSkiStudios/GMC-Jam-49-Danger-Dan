@@ -95,18 +95,32 @@ case DAN_STATE.alive:{
 	}
 }break;
 
-case DAN_STATE.death_squash:{
-	if (sprite_index != spr_dan_squash){
-		image_index = 0;
-		sprite_index = spr_dan_squash;
-		image_speed = 1;
-	}
+	case DAN_STATE.death_squash:{
+		if (sprite_index != spr_dan_squash){
+			image_index = 0;
+			sprite_index = spr_dan_squash;
+			image_speed = 1;
+		}
 	
-	if (image_index >= image_number - 1){
-		image_speed = 0;
-		image_index = image_number - 1;
-	}
+		if (image_index >= image_number - 1){
+			image_speed = 0;
+			image_index = image_number - 1;
+		}
 	
-}break;
+	}break;
+	
+	case DAN_STATE.death_laser:{
+		if (sprite_index != spr_dan_laserd){
+			image_index = 0;
+			sprite_index = spr_dan_laserd;
+			image_speed = 1;
+		}
+	
+		if (image_index >= image_number - 1){
+			image_speed = 0;
+			image_index = image_number - 1;
+		}
+	
+	}break;
 
 }

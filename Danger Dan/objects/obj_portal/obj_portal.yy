@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Portals",
-    "path": "folders/Portals.yy",
+    "path": "folders/Room things/Portals.yy",
   },
   "parentObjectId": {
     "name": "obj_type_portal",

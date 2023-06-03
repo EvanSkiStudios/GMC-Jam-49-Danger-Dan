@@ -37,6 +37,12 @@ function fhAudioMusicPlay(musicTrack, _fadeTime = 1000, _fromBeginning = false)
 			currentMusicRef = audio_play_sound(currentMusicTrack, 0, true, 0);
 		audio_sound_gain(currentMusicRef, realMusicVolume, _fadeTime);
 		musicStatus = __FHAUDIO_STATUS_PLAYING;
+		var loopPoints = musicLoopPoints[$ string(currentMusicTrack)];
+		if(loopPoints != undefined)
+		{
+			audio_sound_loop_start(currentMusicRef, loopPoints.beginningTime);
+			audio_sound_loop_end(currentMusicRef, loopPoints.endingTime);
+		}
 	}
 	return __fhAudioObjController.currentMusicRef;
 }

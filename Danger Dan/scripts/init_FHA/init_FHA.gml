@@ -12,24 +12,14 @@
 #macro SND_SFX_LASER_FINISH "snd_sfx_laser_finish"
 #macro SND_SFX_LASER_DEATH "snd_sfx_laser_death"
 
-
-
 function FhInitAudio()
 {
 	fhAudioInitialize();
 	
 //intro and main menu music
-	//fhAudioMusicSetLoopPoints(snd_mus_intro, 11338, 64251);
-	//fhAudioMusicRoomChangeSet(rm_mainmenu,snd_mus_intro);
+	fhAudioMusicSetLoopPoints(snd_mus_MM, 6.4);
+	fhAudioMusicRoomChangeSet(rm_mainmenu, snd_mus_MM);
 	
-//credits
-	//fhAudioMusicRoomChangeSet(rm_final_scene,snd_mus_victory);
-	
-//levels
-	//fhAudioMusicRoomChangeSet(pat_test_room,snd_mus_levels);
-	
-//boss music
-	//fhAudioMusicSetLoopPoints(snd_mus_boss, 3200, 48000);
 	
 	//set catagory volume like so -> ADD TO MENU SYSTEM, this works for now but cant be player controlled
 	fhAudioVolumeCategorySet(FHAUDIO_CATEGORY_GAME, 0.5);

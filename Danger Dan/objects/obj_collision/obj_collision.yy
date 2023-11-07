@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Room things",
-    "path": "folders/Room things.yy",
+    "name": "Triggers",
+    "path": "folders/Room things/Triggers.yy",
   },
   "parentObjectId": null,
   "persistent": false,

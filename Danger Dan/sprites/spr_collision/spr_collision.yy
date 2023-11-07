@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Room things",
-    "path": "folders/Room things.yy",
+    "name": "Triggers",
+    "path": "folders/Room things/Triggers.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

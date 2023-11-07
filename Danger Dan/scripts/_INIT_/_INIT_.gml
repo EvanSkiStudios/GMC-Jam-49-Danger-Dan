@@ -1,0 +1,2 @@
+#macro DEBUG_AUTOSKIP_SPLASH true
+#macro DEBUG_AUTOSKIP_MENU true

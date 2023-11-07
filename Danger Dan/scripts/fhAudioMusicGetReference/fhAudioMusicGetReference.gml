@@ -1,4 +1,5 @@
 // feather ignore GM2017
+// feather ignore GM1045
 
 /// @func fhAudioMusicGetReference()
 /// @desc Gets the reference to the currently playing music

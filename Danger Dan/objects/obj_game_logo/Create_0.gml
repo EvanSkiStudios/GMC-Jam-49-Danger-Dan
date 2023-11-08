@@ -1,5 +1,3 @@
-if (DEBUG_AUTOSKIP_MENU) room_goto_next();
-
 titlescreen_instructions = (
 	"HOW TO PLAY"+"\n"+
 	"MOVEMENT: WASD"+"\n"+

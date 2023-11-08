@@ -1,0 +1,1 @@
+if (DEBUG_AUTOSKIP_MENU) room_goto_next();

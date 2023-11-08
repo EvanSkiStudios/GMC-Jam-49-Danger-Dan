@@ -13,11 +13,19 @@ do_laser_start = true;
 
 laser_beeming = false;
 
+/*
 x_offset = x - 2;
 y_offset = y - 8;
 
 target_x = x_offset;
 target_y = 75;
+*/
+
+x_offset = x - 8;
+y_offset = y;
+
+target_x = 3;
+target_y = y_offset;
 
 image_index = 0;
 
